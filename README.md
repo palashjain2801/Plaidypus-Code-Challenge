@@ -14,3 +14,13 @@ Create a two-page application using the Yelp Fusion API.
 ### SearchEngine
 
 ![Test Image 4](https://github.com/palashjain2801/Plaidypus-Code-Challenge/blob/master/images/1.PNG)
+
+### Loading
+![Test Image 4](https://github.com/palashjain2801/Plaidypus-Code-Challenge/blob/master/images/2.PNG)
+
+### businesses in provided location
+![Test Image 4](https://github.com/palashjain2801/Plaidypus-Code-Challenge/blob/master/images/3.PNG)
+
+### When you click on tile, It takes you to 2nd page
+![Test Image 4](https://github.com/palashjain2801/Plaidypus-Code-Challenge/blob/master/images/4.PNG)
+
