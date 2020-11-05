@@ -52,8 +52,8 @@ npm run dev
 
 You can get more information about me at
 
-| Website   | Link                                                        |
-| --------- | ----------------------------------------------------------- |
-| Linkedin  | [https://www.linkedin.com/in/jainpalashiitc/][pldb]         |
-| GitHub    | [https://github.com/palashjain2801][plgh]                   |
-| Portfolio | [https://palashjain2801.github.io/Palash_Portfolio-/][plgd] |
+| Website   | Link                                                  |
+| --------- | ----------------------------------------------------- |
+| Linkedin  | [https://www.linkedin.com/in/jainpalashiitc/]         |
+| GitHub    | [https://github.com/palashjain2801]                   |
+| Portfolio | [https://palashjain2801.github.io/Palash_Portfolio-/] |
