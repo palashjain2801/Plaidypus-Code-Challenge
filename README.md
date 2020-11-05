@@ -24,3 +24,20 @@ Create a two-page application using the Yelp Fusion API.
 ### When you click on tile, It takes you to 2nd page
 ![Test Image 4](https://github.com/palashjain2801/Plaidypus-Code-Challenge/blob/master/images/4.PNG)
 
+## Steps to Run the Project 
+Clone Project to your system
+
+```sh
+$ git clone https://github.com/palashjain2801/Plaidypus-Code-Challenge
+```
+
+Install all dependencies 
+```sh
+$ cd Plaidypus-Code-Challenge
+$ npm install
+```
+
+run the Project
+```sh
+npm run dev
+```
